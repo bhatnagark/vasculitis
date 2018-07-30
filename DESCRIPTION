@@ -1,0 +1,13 @@
+Package: vasculitis
+Type: Package
+Title: Used for Merging and Binding the files by clinicians working on Vasculitis
+Version: 0.1.1
+Author: Kshitij Bhatnagar
+Maintainer: Kshitij Bhatnagar <bhatnagk@tcd.ie>
+Description: The package uses the existing vascultis data files and merge and bind them for analysis and visualization.
+License: GPL-2
+LazyData: true
+Imports:
+  dplyr(>= 0.7.6),
+  gtools(>= 3.8.1)
+RoxygenNote: 6.0.1.9000
