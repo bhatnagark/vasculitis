@@ -7,7 +7,10 @@
 #' @param f3 name/address of the demographic file
 #' @param f4 name/aadress of the encounter file
 #' @param f5 name/address of the complication file
+#' @param address function which prmopts the user to add the address of the files.
+#' @param myfunction function which takes these address as arguement and generates the files as required.
 #' @return NULL
+#' @encoding UTF-8
 
 
 
